@@ -1,0 +1,68 @@
+
+
+
+body{
+    background-color:rgb(116, 114, 114);;
+    
+}
+div{
+    width: 960px;
+    margin: 30 ;
+    background-color: rgb(84, 137, 155);
+    padding: 30px;
+}
+h1{
+    text-align: center;
+    border-bottom: 6px double rgb(23, 23, 158);
+    
+}
+h2{
+     border-bottom: 2px solid rgb(23, 23, 158);
+     border-top: 2px dotted rgb(23, 23, 158);
+    margin-right: 40%;
+    color: rgb(23, 23, 158);
+}
+p{
+    text-align: justify;
+    
+}
+ul{
+ margin-left: 80px;
+     
+list-style-image: url('kukac.png');
+      
+}
+
+    
+  
+
+li{
+    margin-bottom: 5px;
+    text-align: justify;
+}
+
+
+
+      
+        .left { float: left; 
+            
+            width: 200px;
+                     
+                          border: 4px solid rgb(23, 23, 158);
+
+        }
+.right { float: right; 
+    margin-right: 30px;
+    width: 200px;
+    border: 4px solid rgb(23, 23,158)
+
+}
+link { 
+    margin: 30px;
+   
+    font-style: italic;
+    float: left;
+}
+/* mouse over link */
+a:hover {
+    color: rgb(23, 23, 158);}
